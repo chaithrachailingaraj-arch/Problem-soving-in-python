@@ -1,0 +1,6 @@
+name=input("Enter your name:")
+age=int(input("Enter your age:"))
+clg=input("Enter you clg name:")
+print("Name:",name)
+print("Age:",age)
+print("Clg:",clg)
