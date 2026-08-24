@@ -57,27 +57,3 @@ if n%2==0:
     print("Even")
 else:
     print("Odd")
-
-#15th
-
-A=int(input("Enter a:"))
-B=int(input("Enter b:"))
-
-print(A**2+B**2)
-print(A**3+B*3)
-
-#16TH
-
-A=int(input("A:"))
-B=int(input("B:"))
-print(A==B)
-print(A!=B)
-print(A<=B)
-print(A>=B)
-print(A>B)
-print(A<B)
-
-
-
-
-
