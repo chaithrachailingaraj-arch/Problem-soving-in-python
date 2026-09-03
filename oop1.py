@@ -9,7 +9,7 @@ class Student:
         print(f"{self.USN} is her USN")
         print(f"{self.marks} is her marks")
 
-Information = Student("Chaithra"," 4GH25CS025 ",9.2)
+Information = Student("Chaithra","4GH25CS025",9.2)
 
 Information.details()
 
