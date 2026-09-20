@@ -1,0 +1,13 @@
+ Student name :Chaithra 
+ Marks :567  Student name :Vanitha 
+ Marks :508  Student name :Pallavi 
+ Marks :562
+  Student name :Dhanu 
+ Marks :579
+  Student name :Kushala 
+ Marks :582
+  Student name :kumari 
+ Marks :334
+ Student name :bhavana 
+ Marks :568
+ 
